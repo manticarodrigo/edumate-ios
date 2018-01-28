@@ -1,2 +1,2 @@
 # edumate-ios
-A Swift frontend framework for Edumate.
+A Swift native iOS client for Edumate.
